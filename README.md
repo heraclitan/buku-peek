@@ -10,7 +10,3 @@ Buku Peek connects to your existing Buku bookmark database and displays your boo
 
 - Buku must be installed and configured
 - Python 3.6+ (for the native messaging host)
-
-## Acknowledgments
-
-- [Jarun](https://github.com/jarun) for creating Buku
