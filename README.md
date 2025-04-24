@@ -2,8 +2,6 @@
 
 A browser extension that lets you view and search your [Buku](https://github.com/jarun/buku) bookmarks directly from your browser.
 
-![Buku Peek Screenshot](path/to/screenshot.png)
-
 ## What is it?
 
 Buku Peek connects to your existing Buku bookmark database on your local machine and displays those bookmarks within your browser. It's a simple viewer—not a manager—that gives you instant access to the bookmarks you've saved with the Buku command-line tool.
